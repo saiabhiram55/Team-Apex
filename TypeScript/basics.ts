@@ -95,9 +95,3 @@
 // // Using forEach method
 // number.forEach(num => console.log(num));
 
-
-
-
-
-
-
