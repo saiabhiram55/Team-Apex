@@ -1,7 +1,8 @@
-export default function notfound(){
-    return
-    <>
-        <h2>Page is not found</h2>
-        <h3>Please correct the render page or url</h3>
-    </>
+export default function NotFound(){
+    return (
+        <>
+        <h3> page is not found</h3>
+        <h2>could render the page </h2>
+        </>
+    )
 }
